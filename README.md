@@ -8,7 +8,7 @@ Customizable `IndeterminateProgressView` **class** with two types of infinity an
 
 
 # Quick Install
-- Drag or copy this **class** into your project
+- Drag or copy this [**class**](https://github.com/popcornomnom/IndeterminateProgress/blob/master/IndeterminateProgress/IndeterminateProgressView.swift) into your project
 - Play with `IndeterminateProgressView` attributes *(optional)*
 
 ### Programmatically
